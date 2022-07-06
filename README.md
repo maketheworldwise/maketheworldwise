@@ -18,6 +18,8 @@
 ### Tech stack 🛠
 
 <div align="center">
+    <!-- Icons from [simpleicon.](https://simpleicons.org/)  -->
+    <!-- Badges from [shields.](https://shields.io/)  -->
     <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> -->
     <!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> -->
     <!-- <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> -->
@@ -26,7 +28,7 @@
     <!-- <br /> -->
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-    <!-- <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a>  -->
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a> 
     <!-- <img src="https://img.shields.io/badge/MFC-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>  -->
     <br />
     <img src="https://img.shields.io/badge/Mysql-0063B2?style=flat-square&logo=MySql&logoColor=white"/></a>
@@ -34,6 +36,7 @@
     <!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>  -->
     <br />
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a> 
 </div>
 
